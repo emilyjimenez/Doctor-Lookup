@@ -7,9 +7,17 @@
 }
 
 .phone {
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .practice {
   color: green;
+}
+
+.accepting {
+  color: green;
+}
+
+.notaccepting {
+  color: red;
 }
