@@ -1,3 +1,15 @@
-#result {
+#result{
   display: none;
+}
+
+.address {
+  font-style: oblique;
+}
+
+.phone {
+  font-size: 10px;
+}
+
+.practice {
+  color: green;
 }
